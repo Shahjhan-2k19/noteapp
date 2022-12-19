@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/noteapp/static/css/main.9cc0f6f1.css",
-    "main.js": "/github.io/noteapp/static/js/main.311235fe.js",
-    "static/js/787.efd4afdc.chunk.js": "/github.io/noteapp/static/js/787.efd4afdc.chunk.js",
-    "index.html": "/github.io/noteapp/index.html",
-    "main.9cc0f6f1.css.map": "/github.io/noteapp/static/css/main.9cc0f6f1.css.map",
-    "main.311235fe.js.map": "/github.io/noteapp/static/js/main.311235fe.js.map",
-    "787.efd4afdc.chunk.js.map": "/github.io/noteapp/static/js/787.efd4afdc.chunk.js.map"
+    "main.css": "/Shahjhan-2k19/noteapp/static/css/main.9cc0f6f1.css",
+    "main.js": "/Shahjhan-2k19/noteapp/static/js/main.b7bb752c.js",
+    "static/js/787.efd4afdc.chunk.js": "/Shahjhan-2k19/noteapp/static/js/787.efd4afdc.chunk.js",
+    "index.html": "/Shahjhan-2k19/noteapp/index.html",
+    "main.9cc0f6f1.css.map": "/Shahjhan-2k19/noteapp/static/css/main.9cc0f6f1.css.map",
+    "main.b7bb752c.js.map": "/Shahjhan-2k19/noteapp/static/js/main.b7bb752c.js.map",
+    "787.efd4afdc.chunk.js.map": "/Shahjhan-2k19/noteapp/static/js/787.efd4afdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cc0f6f1.css",
-    "static/js/main.311235fe.js"
+    "static/js/main.b7bb752c.js"
   ]
 }
