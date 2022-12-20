@@ -1,3 +1,7 @@
+# Quick Deploy Link
+
+https://shahjhan-2k19.github.io/noteapp/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
